@@ -1,0 +1,76 @@
+.mac-book-air-1, .mac-book-air-1 * { box-sizing: border-box; }.mac-book-air-1 {background: #ffffff; width: 1280px; height: 832px; position: relative; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); overflow: hidden;}
+ .rectangle-1 {background: #212b3e; width: 1280px; height: 94px; position: absolute; left: 0px;top: 0px;}
+ .menu {width: 51px; height: 51px; position: absolute; left: 24px;top: 22px;}
+ .circled-user-male-skin-type-7 {width: 55px; height: 55px; position: absolute; left: 1177px;top: 20px;}
+ .rectangle-2 {background: #d9d9d9; border-radius: 42px; width: 755px; height: 52px; position: absolute; left: 262px;top: 20px;}
+ .search {color: #000000; text-align: left; font: 400 24px 'Inter', sans-serif; position: absolute; left: 331px;top: 32px;}
+ .project {color: #000000; text-align: left; font: 600 36px 'Inter', sans-serif; position: absolute; left: 136px;top: 164px;}
+ .manajer {color: #c5c5c5; text-align: left; font: 400 24px 'Inter', sans-serif; position: absolute; left: 1081px;top: 32px;}
+ .search2 {width: 36px; height: 36px; position: absolute; left: 278px;top: 28px;}
+ .documents-folder {width: 100px; height: 100px; position: absolute; left: 24px;top: 118px;}
+ .detail {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 138px;top: 140px;}
+ .list {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 29px;top: 254px;}
+ .rectangle-3 {background: #f8f8f8; border-radius: 43px; border-style: solid; border-color: #afafaf; border-width: 2px; width: 179px; height: 68px; position: absolute; left: 1062px;top: 134px;}
+ .circled-user-male-skin-type-8 {width: 55px; height: 55px; position: absolute; left: 1075px;top: 141px;}
+ .circled-user-male-skin-type-9 {width: 55px; height: 55px; position: absolute; left: 1090px;top: 141px;}
+ .circled-user-male-skin-type-10 {width: 55px; height: 55px; position: absolute; left: 1107px;top: 141px;}
+ .circled-user-male-skin-type-11 {width: 55px; height: 55px; position: absolute; left: 1124px;top: 141px;}
+ .timeline {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 119px;top: 254px;}
+ .progress {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 256px;top: 254px;}
+ .document {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 397px;top: 254px;}
+ .progress-type-task {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 753px;top: 307px;}
+ .chevron-right {width: 20px; height: 20px; position: absolute; left: 193px;top: 142px;}
+ .vector-1 {position: absolute; left: 28.5px;top: 286px; overflow: visible;}
+ .people {width: 48px; height: 48px; position: absolute; left: 1181px;top: 144px;}
+ .rectangle-4 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 1205px; height: 405px; position: absolute; left: 36px;top: 354px;}
+ .rectangle-13 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 1205px; height: 182px; position: absolute; left: 36px;top: 354px;}
+ .rectangle-5 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 1205px; height: 85px; position: absolute; left: 36px;top: 354px;}
+ .rectangle-6 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 185px; height: 405px; position: absolute; left: 36px;top: 354px;}
+ .rectangle-7 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 374px; height: 405px; position: absolute; left: 36px;top: 354px;}
+ .rectangle-8 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 597px; height: 405px; position: absolute; left: 36px;top: 354px;}
+ .rectangle-9 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 828px; height: 405px; position: absolute; left: 36px;top: 354px;}
+ .rectangle-10 {background: #ffffff; border-style: solid; border-color: #afafaf; border-width: 2px; width: 1007px; height: 405px; position: absolute; left: 36px;top: 354px;}
+ .vector-2 {position: absolute; left: 28.5px;top: 283.5px; overflow: visible;}
+ .name {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 83px;top: 384px;}
+ .priority {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 255px;top: 384px;}
+ .progress2 {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 467px;top: 389px;}
+ .status {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 712px;top: 384px;}
+ .status-updated-the-project-in-progress {color: #000000; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 644px;top: 473px;}
+ .owner {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 921px;top: 384px;}
+ .jordy {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 939px;top: 473px;}
+ ._01-06-2023-29-06-2023 {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 1090px;top: 466px;}
+ .date {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 1112px;top: 384px;}
+ .rectangle-11 {background: #e33e3e; border-radius: 43px; width: 96px; height: 36px; position: absolute; left: 255px;top: 467px;}
+ .high {color: #ffffff; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 281px;top: 473px;}
+ .rectangle-12 {background: #3ec6e3; border-radius: 43px; width: 154px; height: 36px; position: absolute; left: 444px;top: 467px;}
+ .in-progress {color: #ffffff; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 469px;top: 473px;}
+ .sort {width: 35px; height: 35px; position: absolute; left: 142px;top: 379px;}
+ .sort2 {width: 35px; height: 35px; position: absolute; left: 326px;top: 379px;}
+ .sort3 {width: 35px; height: 35px; position: absolute; left: 554px;top: 379px;}
+ .sort4 {width: 35px; height: 35px; position: absolute; left: 793px;top: 379px;}
+ .sort5 {width: 35px; height: 35px; position: absolute; left: 996px;top: 379px;}
+ .sort6 {width: 35px; height: 35px; position: absolute; left: 1169px;top: 379px;}
+ .circled-user-male-skin-type-12 {width: 55px; height: 55px; position: absolute; left: 877px;top: 457px;}
+ .spark-app {width: 27px; height: 27px; position: absolute; left: 39px;top: 467px;}
+ .group-1 {position: absolute; inset: 0;}
+ .rectangle-132 {background: #a1ffb0; border-radius: 43px; width: 66px; height: 17px; position: absolute; left: 643px;top: 450px;}
+ .on-track {color: #010101; text-align: left; font: 400 6px 'Inter', sans-serif; position: absolute; left: 664px;top: 455px; width: 35px; height: 8px;}
+ .ellipse-1 {background: #257c38; border-radius: 50%; width: 8px; height: 8px; position: absolute; left: 650px;top: 454px;}
+ .group-3 {position: absolute; inset: 0;}
+ .rectangle-133 {background: #a1ffb0; border-radius: 43px; width: 135.88px; height: 35px; position: absolute; left: 275px;top: 159px;}
+ .on-track2 {color: #010101; text-align: left; font: 400 15px 'Inter', sans-serif; position: absolute; left: 318.24px;top: 169.29px; width: 72.06px; height: 16.47px;}
+ .ellipse-12 {background: #257c38; border-radius: 50%; width: 16.47px; height: 16.47px; position: absolute; left: 289.41px;top: 167.24px;}
+ .rectangle-14 {background: #0d76b1; border-radius: 24px; width: 57px; height: 22px; position: absolute; left: 795px;top: 507px;}
+ .deployment-app {color: #000000; text-align: left; font: 400 16px 'Inter', sans-serif; position: absolute; left: 66px;top: 471px;}
+ .detail2 {color: #ffffff; text-align: left; font: 400 11px 'Inter', sans-serif; position: absolute; left: 809px;top: 510px;}
+ .rectangle-15 {background: #0b5985; border-radius: 8px; width: 200px; height: 45px; position: absolute; left: 45px;top: 297px;}
+ .rectangle-16 {background: #0d76b1; border-radius: 8px 0px 0px 8px; width: 142px; height: 45px; position: absolute; left: 45px;top: 297px;}
+ .plus {width: 23px; height: 20px; position: absolute; left: 52px;top: 309px;}
+ .add-work {color: #fff9f9; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 82px;top: 307px;}
+ .expand-arrow {width: 34px; height: 23px; position: absolute; left: 198px;top: 308px;}
+ .group-2 {position: absolute; inset: 0;}
+ .filter {color: #000000; text-align: left; font: 400 20px 'Inter', sans-serif; position: absolute; left: 1010px;top: 307px;}
+ .filter2 {width: 23px; height: 22px; position: absolute; left: 987px;top: 308px;}
+ .rectangle-17 {background: #0d76b1; border-radius: 5px; width: 128px; height: 35px; position: absolute; left: 1112px;top: 303px;}
+ .sort7 {width: 20px; height: 20px; position: absolute; left: 1118px;top: 310px;}
+ .sort-priority {color: #ffffff; text-align: left; font: 400 13px 'Inter', sans-serif; position: absolute; left: 1146px;top: 312px;}
